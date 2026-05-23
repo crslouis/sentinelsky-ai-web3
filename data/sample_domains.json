@@ -1,0 +1,28 @@
+{
+  "domains": [
+    {
+      "domain": "uniswap-claim.xyz",
+      "status": "malicious",
+      "type": "phishing",
+      "detected_at": "2026-05-22T14:30:00Z",
+      "impersonates": "Uniswap",
+      "risk_level": "high"
+    },
+    {
+      "domain": "metamask-verify.com",
+      "status": "malicious",
+      "type": "phishing",
+      "detected_at": "2026-05-21T09:15:00Z",
+      "impersonates": "MetaMask",
+      "risk_level": "critical"
+    },
+    {
+      "domain": "opensea-nft-drop.net",
+      "status": "malicious",
+      "type": "phishing",
+      "detected_at": "2026-05-20T16:45:00Z",
+      "impersonates": "OpenSea",
+      "risk_level": "high"
+    }
+  ]
+}

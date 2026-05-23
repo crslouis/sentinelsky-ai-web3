@@ -1,0 +1,31 @@
+{
+  "threats": [
+    {
+      "id": "THR-20260522-001",
+      "type": "phishing",
+      "severity": "high",
+      "domain": "uniswap-claim.xyz",
+      "detected_at": "2026-05-22T14:30:00Z",
+      "status": "active",
+      "description": "Fake Uniswap airdrop claiming site"
+    },
+    {
+      "id": "THR-20260522-002",
+      "type": "rugpull",
+      "severity": "critical",
+      "project": "MoonDoge Finance",
+      "detected_at": "2026-05-22T18:40:00Z",
+      "status": "imminent",
+      "description": "Unlocked liquidity, anonymous team, hidden mint function"
+    },
+    {
+      "id": "THR-20260522-003",
+      "type": "contract_vulnerability",
+      "severity": "critical",
+      "contract": "0x1234567890abcdef1234567890abcdef12345678",
+      "detected_at": "2026-05-22T16:50:00Z",
+      "status": "active",
+      "description": "Reentrancy vulnerability in SafeYield Protocol"
+    }
+  ]
+}

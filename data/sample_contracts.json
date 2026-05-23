@@ -1,0 +1,22 @@
+{
+  "contracts": [
+    {
+      "address": "0x1234567890abcdef1234567890abcdef12345678",
+      "name": "SafeYield Protocol",
+      "chain": "Ethereum",
+      "risk_score": 78,
+      "vulnerabilities": ["reentrancy", "centralized_admin"],
+      "audit_status": "not_audited",
+      "tvl": 2300000
+    },
+    {
+      "address": "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb",
+      "name": "MoonDoge Finance",
+      "chain": "BSC",
+      "risk_score": 94,
+      "vulnerabilities": ["unlocked_liquidity", "hidden_mint", "whale_concentration"],
+      "audit_status": "not_audited",
+      "tvl": 450000
+    }
+  ]
+}

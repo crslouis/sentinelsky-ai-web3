@@ -1,0 +1,58 @@
+{
+  "daily_usage": {
+    "date": "2026-05-22",
+    "agents": [
+      {
+        "name": "Threat Scout Agent",
+        "tokens_per_run": 120000,
+        "runs": 24,
+        "total_tokens": 2880000
+      },
+      {
+        "name": "Phishing Detector Agent",
+        "tokens_per_run": 180000,
+        "runs": 30,
+        "total_tokens": 5400000
+      },
+      {
+        "name": "Contract Scanner Agent",
+        "tokens_per_run": 450000,
+        "runs": 20,
+        "total_tokens": 9000000
+      },
+      {
+        "name": "Rugpull Risk Agent",
+        "tokens_per_run": 350000,
+        "runs": 20,
+        "total_tokens": 7000000
+      },
+      {
+        "name": "Tokenomics Analyst Agent",
+        "tokens_per_run": 300000,
+        "runs": 15,
+        "total_tokens": 4500000
+      },
+      {
+        "name": "Social Trust Agent",
+        "tokens_per_run": 150000,
+        "runs": 20,
+        "total_tokens": 3000000
+      },
+      {
+        "name": "Report Generator Agent",
+        "tokens_per_run": 250000,
+        "runs": 10,
+        "total_tokens": 2500000
+      },
+      {
+        "name": "Multilingual Threat Research",
+        "tokens_per_run": 250000,
+        "runs": 15,
+        "total_tokens": 3750000
+      }
+    ],
+    "total_daily_tokens": 38030000,
+    "estimated_monthly_tokens": 1140900000,
+    "community_scale_monthly": 5000000000
+  }
+}
