@@ -284,7 +284,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: https://github.com/username/sentinelsky-ai
+- **GitHub**: https://github.com/crslouis/sentinelsky-ai-web3
 - **Twitter**: @SentinelSkyAI (future)
 - **Telegram**: t.me/sentinelskyai (future)
 - **Discord**: discord.gg/sentinelskyai (future)
