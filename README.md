@@ -94,8 +94,8 @@ sentinelsky-ai/
 
 ```bash
 # Clone repository
-git clone https://github.com/username/sentinelsky-ai.git
-cd sentinelsky-ai
+git clone https://github.com/crslouis/sentinelsky-ai-web3.git
+cd sentinelsky-ai-web3
 
 # Install dependencies
 npm install
